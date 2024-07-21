@@ -28,7 +28,7 @@ BugOverflow is a social platform designed to empower developers to connect, lear
 
 **Deployment & Development:**
 
-* **Vercel:** Simplifies deployment and enables features like cron jobs for automated tasks.
+* **DataChuck:** Simplifies deployment and enables features like cron jobs for automated tasks.
 * **Prettier & Plugins:**  Enforces consistent code formatting for a clean and maintainable codebase.
 
 **Inspired by Stack Overflow, built for the future of developer communities.**
